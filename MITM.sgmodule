@@ -1,5 +1,5 @@
 #!name=MITM
-#!desc=Perform MitM
+#!desc=主机名
 #!system=ios
 
 [MITM]
